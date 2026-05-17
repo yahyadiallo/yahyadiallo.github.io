@@ -1,5 +1,9 @@
 # Yahya Diallo Portfolio Website
 
+GitHub Pages Site:
+
+https://yahyadiallo.github.io/
+
 This repository contains my personal portfolio website built to show projects, technical skills, and experience related to data visualization and data analytics.
 
 The site highlights projects completed through coursework, personal work, and dashboard development using tools such as R, Tableau, ArcGIS, HTML, and CSS.
@@ -52,23 +56,9 @@ Upcoming mobile app project containing categorized Islamic duas sourced from the
 
 ## Repository Structure
 
-```text
-assets/
-    css/
-    js/
-    sass/
-    webfonts/
-
-images/
-index.html
-README.md
-```
-
 ## Live Website
 
-GitHub Pages Site:
 
-https://yahyadiallo.github.io/
 
 ## Author
 
