@@ -1,5 +1,7 @@
 # Yahya Diallo Portfolio Website
 
+## Live Website
+
 GitHub Pages Site:
 
 https://yahyadiallo.github.io/
@@ -53,12 +55,6 @@ Upcoming mobile app project containing categorized Islamic duas sourced from the
 - About Me section
 - Social media links
 - GitHub Pages deployment link
-
-## Repository Structure
-
-## Live Website
-
-
 
 ## Author
 
