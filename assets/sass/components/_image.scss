@@ -53,9 +53,12 @@
 		}
 
 		&.main {
-			display: block;
-			margin: (_size(element-margin) * 2) 0;
+			display: flex;
+			align-items: center;
+			justify-content: center;
+			margin: (_size(element-margin) * 2) auto;
 			width: 100%;
+			max-width: 600px;
 
 			&:first-child {
 				margin-top: 0;
@@ -63,6 +66,10 @@
 
 			img {
 				width: 100%;
+				aspect-ratio: 1;
+				object-fit: cover;
+				max-width: 600px;
+				height: auto;
 			}
 		}
 

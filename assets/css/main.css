@@ -2638,6 +2638,15 @@ input, select, textarea {
 			width: 100%;
 		}
 
+		.square-img {
+			width: 800px !important;
+			height: 600px !important;
+			object-fit: cover;
+			display: block;
+			margin: 0 auto 3rem auto;
+		}
+	
+
 			.image.main:first-child {
 				margin-top: 0;
 			}
@@ -4684,6 +4693,15 @@ input, select, textarea {
 			transform: translateX(0);
 			box-shadow: 0 0 1.5rem 0 rgba(0, 0, 0, 0.2);
 			visibility: visible;
+		}
+
+		.post.featured ul.actions.special {
+			margin-top: 3rem !important;
+			margin-bottom: 2rem !important;
+		}
+
+		.post.featured {
+  		text-align: center;
 		}
 
 	}
