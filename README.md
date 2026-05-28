@@ -2,7 +2,7 @@
 
 ## Live Website
 
-GitHub Pages Site:
+GitHub Pages Site
 
 https://yahyadiallo.github.io/
 
